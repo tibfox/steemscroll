@@ -13,5 +13,5 @@ show steemit related data on a unicorn phat connected to a raspberry pi zero w
 - [unicorn-phat](https://shop.pimoroni.de/products/unicorn-phat)
 
 # All the glory goes to: 
--the creators of [beem](https://github.com/holgern/beem) and 
+- the creators of [beem](https://github.com/holgern/beem) and 
 - [sconmad](https://github.com/sconemad/unicorn-scroller) and his awsome python-script called [unicorn-scroller](https://github.com/sconemad/unicorn-scroller)
